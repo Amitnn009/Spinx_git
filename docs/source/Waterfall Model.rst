@@ -31,3 +31,6 @@ The sequential phases in Waterfall model are −
 To learn more, click here_
 
 .. _here: https://www.tutorialspoint.com/sdlc/sdlc_rad_model.htm
+
+
+** This is Bold Formatting**
