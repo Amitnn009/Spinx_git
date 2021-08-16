@@ -12,12 +12,12 @@ This is the Hello Code Program
 **This is Bold Text**
 
 Table Example
-==========   ========================
+==========    =========================
 Field	      Description
-=====================================
+==========    =========================
 Add	      This adds to the table
 Minus	      This removes from table
-=====================================
+==========    =========================
 
 
 
