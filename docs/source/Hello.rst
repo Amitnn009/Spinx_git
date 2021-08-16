@@ -11,13 +11,18 @@ This is the Hello Code Program
 
 **This is Bold Text**
 
-Table Example
-==========    =========================
-Field	      Description
-==========    =========================
-Add	      This adds to the table
-Minus	      This removes from table
-==========    =========================
+This is Table
+
+=====  =====  ======
+   Inputs     Output
+------------  ------
+  A      B    A or B
+=====  =====  ======
+False  False  False
+True   False  True
+False  True   True
+True   True   True
+=====  =====  ======
 
 
 
