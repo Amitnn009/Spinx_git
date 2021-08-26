@@ -13,3 +13,4 @@ Clustered table				A clustered table is a table that is part of a cluster. A clu
 Index-organized table			Unlike an ordinary (heap-organized) table, data for an index-organized table is stored in a B-tree index structure in a primary key sorted manner. Besides storing the primary key column values of an index-organized table row, each index entry in the B-tree stores the nonkey column values as well.
 ================================	=========================================================================================================================================================================================================================================================================================================
 
+**This is Bold**
