@@ -12,3 +12,6 @@ SDLC is a process followed for a software project, within a software organizatio
 
 The following figure is a graphical representation of the various stages of a typical SDLC.
 
+**SDLC**
+
+
